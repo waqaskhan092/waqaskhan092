@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waqas Ajmal</h1>
-<h3 align="center">Full Stack Developer / Graphics & UI Designer from Pakistan</h3>
+<h3 align="center">Freelancer / Full Stack Developer / Graphics & UI Designer</h3>
+<h1 align="center">Pakistan</h1>
 
 - 🌱 I’m currently learning **MERN Stack**
 
