@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **HTML, CSS, Tailwind, Bootstrap, Javscript, ReactJs, NextJs, PHP and much more**
 
-- 📫 How to reach me **mailforwaqas@gmail.com**
-
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/waqasajmal](https://www.upwork.com/freelancers/waqasajmal)
 
 <h3 align="left">Connect with me:</h3>
